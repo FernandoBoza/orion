@@ -1,0 +1,49 @@
+{
+    "furniture": {
+        "bed": [
+            {
+                "name": "kingBed",
+                "type": "bed",
+                "id": "01"
+            },
+            {
+                "name": "woodChair",
+                "type": "chair",
+                "id": "01"
+            }
+        ],
+        "kitchen": [
+            {
+                "name": "sink",
+                "type": "pluming",
+                "id": "01"
+            },
+            {
+                "name": "stove",
+                "type": "electronics",
+                "id": "02"
+            }
+        ]
+    },
+    "assets": {
+        "bed": [
+            {
+                "name": "computer",
+                "type": "electronics",
+                "id": "01"
+            },
+            {
+                "name": "drawers",
+                "type": "room misc",
+                "id": "01"
+            }
+        ],
+        "kitchen": [
+            {
+                "name": "wallSpiceRack",
+                "type": "kitchen misc",
+                "id": "01"
+            }
+        ]
+    }
+}
